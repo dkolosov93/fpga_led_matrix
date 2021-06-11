@@ -12,7 +12,7 @@ The following hardware/software was used for this project, but it is simple enou
 - [MAX1000](https://shop.trenz-electronic.de/en/TEI0001-03-08-C8-MAX1000-IoT-Maker-Board-8KLE-8-MByte-RAM)
 - MicroUSB cable
 - [LED Matrix Display](https://thepihut.com/products/32x32-rgb-led-matrix-panel-6mm-pitch?variant=27739411729&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjw2NyFBhDoARIsAMtHtZ4h8AMRyu3QsWzDIOZZgLt8Mgkuh4T4Zq-TJBWLvsIAP4Rvqo-6qPYaAts3EALw_wcB). Check the power supply connector as it may differ. In this setup the below power supply cabling / parts were used.
-- Power supply for the LED Matrix. This [one](https://www.mouser.co.uk/ProductDetail/MEAN-WELL/GS18A03-P1J?qs=9v8X2fPoQt7hYq3Z7%2Fgqlw%3D%3D) was used.
+- [LED Matrix Power supply](https://www.mouser.co.uk/ProductDetail/MEAN-WELL/GS18A03-P1J?qs=9v8X2fPoQt7hYq3Z7%2Fgqlw%3D%3D)
 - [2.1mm terminal block adapter](https://thepihut.com/products/female-dc-power-adapter-2-1mm-jack-to-screw-terminal-block) for connecting power supply to LED Matrix 
 - Quartus Prime Lite v20.1
 - Ubuntu 18.04.1 LTS
