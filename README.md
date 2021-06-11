@@ -6,7 +6,8 @@ Images are converted to the appropriate format through Python scripts as mif fil
 These file are instantiated by 2-port ROM blocks inside the FPGA and can hold up to 7 (32x32) frames per ROM block.
 Using a state machine, those images are display on the LED matrix.
 
-[pic1](https://github.com/dkolosov93/led_matrix/blob/main/images/pic1.jpg)
+![Screenshot](https://github.com/dkolosov93/led_matrix/blob/main/images/pic1.jpg)
+
 
 # Prerequisites
 The following hardware/software was used for this project, but it is simple enough to be ported to other FPGAs with some tweaks:
@@ -19,5 +20,20 @@ The following hardware/software was used for this project, but it is simple enou
 - Ubuntu 18.04.1 LTS
 - Python v3.8.5
 - Pillow
+
+## 0_led_matrix_static
+This version of the project displays one static image.
+By using the [python script](https://github.com/dkolosov93/led_matrix/tree/main/0_led_matrix_static/png_to_mif%20script), it can convert any jpg,jpeg or png image into a 32x32 image and create a mif file instantiates the contents of a ROM block.
+
+python script.py --input [input image name] --output [output mif name]
+
+## 1_led_matrix_animated
+This version of the project can display multiple frames, in animated fashion.
+GIFs are ideal for this. First it is required to split a GIF into multiple images with [python script] (a) 
+Then, by running [python script2], up to 7 frames can be converted and stored in a mif file. Limitations is by internal ROM block.
+Future work could store data in external memory.
+
+
+
 
 
