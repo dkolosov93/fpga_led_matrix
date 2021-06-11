@@ -1,4 +1,4 @@
-# LED Matrix
+# FPGA Driven LED Matrix
 MAX1000 driving a 32x32 LED Matrix Display
 
 Simple VHDL based project using MAX10 FPGA to drive a 32x32 LED matrix display. 
