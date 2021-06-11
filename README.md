@@ -27,12 +27,13 @@ By using the [python script](https://github.com/dkolosov93/led_matrix/tree/main/
 
 python script.py --input [input image name] --output [output mif name]
 
+ <!--
 ## 1_led_matrix_animated
 This version of the project can display multiple frames, in animated fashion.
 GIFs are ideal for this. First it is required to split a GIF into multiple images with [python script] (a) 
 Then, by running [python script2], up to 7 frames can be converted and stored in a mif file. Limitations is by internal ROM block.
 Future work could store data in external memory.
-
+-->
 
 
 
