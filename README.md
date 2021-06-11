@@ -6,6 +6,7 @@ Images are converted to the appropriate format through Python scripts as mif fil
 These file are instantiated by 2-port ROM blocks inside the FPGA and can hold up to 7 (32x32) frames per ROM block.
 Using a state machine, those images are display on the LED matrix.
 
+[pic1](https://github.com/dkolosov93/led_matrix/blob/main/images/pic1.jpg)
 
 # Prerequisites
 The following hardware/software was used for this project, but it is simple enough to be ported to other FPGAs with some tweaks:
