@@ -1,0 +1,37 @@
+Quartus Prime Archive log --	/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/top.qarlog
+
+Archive:	/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/top.qar
+Date:		Fri Jun 11 21:00:57 2021
+Quartus Prime		20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/PLL/pll.cmp
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/PLL/pll.ppf
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/PLL/pll.qip
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/PLL/pll.vhd
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/PLL/pll_inst.vhd
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/ROM/rom.cmp
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/ROM/rom.qip
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/ROM/rom.vhd
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/ROM/rom_inst.vhd
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/IPs/led_matrix_controller.vhd
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/my_defs.vhd
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/README.txt
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/image.mif
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/input.png
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/input1.jpg
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/input1.png
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/input2.png
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/input3.png
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/input4.png
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/jpg_to_png.py
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/png_to_mif script/script.py
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/top.qpf
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/top.qsf
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/top.sdc
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/top.vhd
+/home/dkolosov/fpga_projects/max1000/0_led_matrix_static/top_assignment_defaults.qdf
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
